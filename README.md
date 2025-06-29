@@ -26,6 +26,7 @@ Temperature_sensor_contiki_cooja_simulator/
    ```bash
    git clone https://github.com/githubhealer/Temperature_sensor_contiki_cooja_simulator.git
 2. Type the following commands in the terminal
+
 cd Temperature_sensor_contiki_cooja_simulator
 cd ~/contiki/tools/cooja
 ant run
